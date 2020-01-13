@@ -1,4 +1,9 @@
 # electron-vue-build-demo
+```
+三种方式：
+1.先试用vue-cli构建前端项目结构，分别引入electron,配置打包方式（electron-builder|e;electron-packager）
+2.使用electron-vue脚手架 vue init simulatedgreg/electron-vue xxx (配置不同的打包方式)
+```
 
 > build打包
 
